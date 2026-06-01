@@ -17,7 +17,7 @@ jobs:
         with:
           node-version: '18'
       - run: npm install
-      - run: npx eslint src/
+      - run: ./node_modules/.bin/eslint src/calculadora.js
 
   test:
     name: Jest
