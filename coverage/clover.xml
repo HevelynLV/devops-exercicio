@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1780273639072" clover="3.2.0">
+  <project timestamp="1780273639073" name="All files">
+    <metrics statements="9" coveredstatements="7" conditionals="10" coveredconditionals="8" methods="3" coveredmethods="3" elements="22" coveredelements="18" complexity="0" loc="9" ncloc="9" packages="1" files="1" classes="1"/>
+    <file name="calculadora.js" path="C:\Users\USER\Desktop\Projetos\AtividadeDevOps\devops-exercicio\src\calculadora.js">
+      <metrics statements="9" coveredstatements="7" conditionals="10" coveredconditionals="8" methods="3" coveredmethods="3"/>
+      <line num="2" count="2" type="cond" truecount="4" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="3" falsecount="1"/>
+      <line num="10" count="0" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+      <line num="16" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
